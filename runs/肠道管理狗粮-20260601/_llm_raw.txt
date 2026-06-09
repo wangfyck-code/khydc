@@ -1,0 +1,475 @@
+{"concept": "肠道管理狗粮",
+"generated_at": "2026-06-05",
+"baseline": {
+  "current_product": "暂无产品，拟新建『肠道管理 + 修护』定位的全阶段犬主粮",
+  "current_weakness": "无现款；行业内『肠道呵护』主粮已成红海，多数停留在『益生菌+益生元』堆料、概念同质化，缺乏可感知的反馈与真正的『修护』层差异化",
+  "decision_maker": "Z世代 / 新锐白领，养宠精细化、愿为科学功效与情绪价值付费、看成分表与第三方报告",
+  "user": "全阶段犬（幼犬/成犬/老年犬，肠道敏感、软便、应激性腹泻人群）"
+},
+"mother_needs": [
+  "肠道屏障的修护与重建（不止调节菌群，更要修黏膜）",
+  "可感知、可量化的功效反馈（决策人需要『有用』的证据闭环）",
+  "敏感人群的安全与温和（低敏、可长期食用、不刺激）",
+  "省心与确定性（主人对软便/应激/换粮焦虑的解决方案）",
+  "情绪价值与专业信任（科学背书缓解愧疚与不确定感）"
+],
+"industries": [
+  {
+    "name": "人用益生菌/肠道健康保健品",
+    "borrow": "把『活菌数+菌株专利+定植/修护』的科学叙事与可感知反馈体系迁移到主粮",
+    "why_chosen": "这是『肠道管理』母需求的心智旗手，建立了用户对菌株专利、活菌存活、肠黏膜修护的科学认知，宠物肠道赛道的话术与信任体系无法绕过它。",
+    "pet_pain_link": "现款行业短板正是『堆料但说不清菌株与修护机制』。人用赛道的单一明星菌株+高剂量+临床证据范式，能直接破解主粮益生菌同质化、消费者无法感知功效的痛点。",
+    "dimensions": {
+      "pain_point": "肠道菌群失衡、便秘/腹泻、免疫力低、效果慢难感知",
+      "target_user": "亚健康白领、母婴人群、肠易激/敏感人群",
+      "ingredient_tech": "专利菌株(LGG/BB-12)、后生元、HMO、丁酸梭菌、肠黏膜修护因子",
+      "product_form": "冻干菌粉条、胶囊、饮品、滴剂",
+      "narrative": "活菌数可视化、菌株专利背书、肠脑轴/屏障修护",
+      "price_band": "30-450 元/盒，单条 3-15 元",
+      "business_model": "DTC+订阅复购+药店/母婴渠道",
+      "competitors": "Life Space、汤臣倍健、WonderLab、Culturelle",
+      "regulation": "保健食品蓝帽子、FDA GRAS、活菌数标识规范",
+      "evidence": "活菌存活率、定植率、临床 RCT（待核实具体数值）"
+    },
+    "data_validation": [
+      {"source": "pubmed", "query": "Lactobacillus rhamnosus GG intestinal barrier repair", "hypothesis": "特定菌株可修护肠黏膜屏障", "finding": "DEMO 推断 · 待真跑验证", "sample_size": 0}
+    ],
+    "solution_stack": {
+      "signature_ingredients": ["LGG 鼠李糖乳杆菌", "BB-12 动物双歧杆菌", "丁酸梭菌(后生元丁酸)", "HMO 母乳低聚糖", "谷氨酰胺(黏膜修护)"],
+      "key_processes": ["-40℃ 冷冻干燥锁活", "HPMC 微胶囊抗胃酸包埋", "氮气填充阻氧", "后生元灭活定量工艺"],
+      "delivery_form": "冻干菌粉条/微囊缓释胶囊，常温保活、即开即食",
+      "quality_proof": "专利菌株授权+第三方活菌数检测+临床 RCT 报告",
+      "transferability_note": "菌株+后生元+谷氨酰胺可直接迁移；犬肠道菌群与人不同，需选犬源/犬验证菌株，禁用木糖醇类甜味剂。"
+    },
+    "timeline": [
+      {
+        "era": "萌芽期", "year_range": "2005-2010",
+        "summary": "益生菌作为『助消化』新概念进入中国，认知模糊",
+        "breakthrough": "海外母婴论坛+药店导购把『活菌酸奶』升级为『专利菌株保健品』，BB 益生菌靠海淘进入高知妈妈视野，价位从食品段拉到百元保健段。",
+        "tech_advance": "微胶囊包埋+冷冻干燥初现，解决活菌过胃酸存活问题，活菌数从『标称』走向『检测标识』。",
+        "consumer_mindset": "认知上多数人把益生菌等同助消化酸奶，分不清菌株；情绪上白领开始有亚健康焦虑但被脑白金式营销污染、半信半疑；行为上靠药店导购与妈妈群口碑决策；圈层上高知白领与一线妈妈先海淘尝鲜，下沉市场仍喝普通酸奶。",
+        "era_pain_point": "表层痛：吃一两周没感觉就弃用、复购低；隐性痛：菌株全是英文缩写选不来、只能靠品牌盲选；心智空白：被『调节菌群』种草后期待可量化反馈，何时见效无人能答。",
+        "competitive_map": "分三派——海外母婴派(Life Space/合生元)靠专利菌株+母婴渠道吃信任；大众保健派(汤臣倍健/善存)靠药店商超+电视广告主打性价比全家用；食品酸奶派(养乐多)靠活菌饮品做日常化。前者抢高端心智，后两者抢大众与日常场景。",
+        "opportunities": ["菌株专利可视化", "可量化反馈缺口"],
+        "brand_actions": [
+          {"brand": "Life Space", "insight": "", "action": "", "positioning": ""},
+          {"brand": "汤臣倍健", "insight": "", "action": "", "positioning": ""},
+          {"brand": "养乐多", "insight": "", "action": "", "positioning": ""}
+        ]
+      },
+      {
+        "era": "成长期", "year_range": "2011-2016",
+        "summary": "母婴+药店双渠道放量，菌株专利成卖点",
+        "breakthrough": "母婴渠道派靠『婴幼儿专用菌株+1000天免疫黄金期』话术把益生菌从泛保健独立成垂直刚需，专利菌株成为高端门票。",
+        "tech_advance": "科汉森/Valio 专利菌株授权模式成型，铝箔条装+氮气填充常温保活突破，活菌存活率显著提升。",
+        "consumer_mindset": "认知上开始懂『菌株比菌种重要』，会看 BB-12/LGG 代号；情绪上母婴人群焦虑值最高、对价格不敏感；行为上母婴店导购话术主导决策，电商渗透上升；圈层上一二线高知妈妈引领，开始向新一线渗透。",
+        "era_pain_point": "表层痛：进口装价格高、真假难辨；隐性痛：不知道吃多久、剂量该多大；心智空白：期待『修护』而非只『调节』，但产品仍停留在补菌层。",
+        "competitive_map": "高端临床派(Life Space/Culturelle)走专利菌株+母婴/儿科背书、价位三四百；大众派(汤臣倍健)走药店性价比；新兴电商派(修益升等)开始用天猫旗舰店切年轻人。三派在『专业 vs 性价比 vs 便捷』上分化。",
+        "opportunities": ["剂量与疗程标准化", "修护层概念空白"],
+        "brand_actions": [
+          {"brand": "Culturelle康萃乐", "insight": "", "action": "", "positioning": ""},
+          {"brand": "合生元", "insight": "", "action": "", "positioning": ""},
+          {"brand": "修益升", "insight": "", "action": "", "positioning": ""}
+        ]
+      },
+      {
+        "era": "爆发期", "year_range": "2017-2021",
+        "summary": "新消费品牌把益生菌零食化、年轻化",
+        "breakthrough": "新消费派(WonderLab/每日的菌)靠功能性零食化把益生菌从保健柜搬进年轻女性零食袋，价位带与场景全面重构，小红书种草起量。",
+        "tech_advance": "高活菌剂量(百亿/千亿 CFU)+口感调味+便携条装成为标配，后生元概念兴起解决活菌不稳定痛点。",
+        "consumer_mindset": "认知上年轻人接受『益生菌=日常自我管理』，关注瘦身/美肤/肠道；情绪上从治病焦虑转向悦己向往；行为上靠小红书/抖音种草+直播下单、看成分党测评；圈层上 Z 世代年轻女性引领，男性与中老年跟进。",
+        "era_pain_point": "表层痛：网红产品智商税质疑、活菌数虚标；隐性痛：吃了爽但不知有没有定植；心智空白：要可感知功效证据闭环，而非情绪型种草。",
+        "competitive_map": "新消费派(WonderLab/每日的菌)零食化+联名+年轻女性；专业升级派(Life Space/Culturelle)强化临床数据守高端；后生元新锐派切『不怕死活菌』差异化。新消费抢心智与流量，专业派守信任，后生元开新赛道。",
+        "opportunities": ["后生元稳定性优势", "可感知反馈闭环"],
+        "brand_actions": [
+          {"brand": "WonderLab", "insight": "", "action": "", "positioning": ""},
+          {"brand": "每日的菌", "insight": "", "action": "", "positioning": ""},
+          {"brand": "Swisse", "insight": "", "action": "", "positioning": ""}
+        ]
+      },
+      {
+        "era": "成熟期", "year_range": "2022-2026",
+        "summary": "从补菌走向肠黏膜修护与肠脑轴精准化",
+        "breakthrough": "科学升级派靠后生元+HMO+精准菌株组合把叙事从『补菌』推向『修护肠屏障/肠脑轴』，临床证据成为高端竞争核心。",
+        "tech_advance": "后生元(灭活菌+代谢物)、HMO、丁酸盐缓释、个性化菌群检测兴起，从『活菌存活』升级到『功效机制+精准定植』。",
+        "consumer_mindset": "认知上成熟用户懂菌株、活菌、后生元差异，质疑营销看 RCT；情绪上从焦虑/向往走向理性筛选；行为上看第三方检测、复购订阅、问专业 KOL；圈层上成分党与高知人群主导，大众接受度普及。",
+        "era_pain_point": "表层痛：高端品溢价高、效果仍难自测；隐性痛：修护类宣称缺统一标准；心智空白：要『修护可视化』与个性化方案，而非通用补菌。",
+        "competitive_map": "临床修护派(Life Space升级线/Culturelle)主打屏障修护+RCT；后生元派(主打不怕胃酸代谢物)切稳定性；个性化派(结合菌群检测)切精准；零食延续派(WonderLab)守年轻日常。修护与精准成新高地。",
+        "opportunities": ["修护可视化标准", "个性化方案订阅"],
+        "brand_actions": [
+          {"brand": "Life Space", "insight": "", "action": "", "positioning": ""},
+          {"brand": "Culturelle康萃乐", "insight": "", "action": "", "positioning": ""},
+          {"brand": "WonderLab", "insight": "", "action": "", "positioning": ""}
+        ]
+      }
+    ],
+    "current_state": "红海中分层：通用补菌已同质化内卷，但『肠黏膜修护+后生元稳定性+个性化精准』是新蓝海高地，临床证据与可感知反馈成竞争核心。"
+  },
+  {
+    "name": "婴幼儿配方奶粉",
+    "borrow": "迁移『分阶段配方+敏感人群修护(水解蛋白)+权威背书+愧疚情绪营销』体系",
+    "why_chosen": "母婴是『敏感肠道+全阶段+修护』需求最成熟的赛道，水解蛋白、HMO、分段配方与『为最脆弱使用者负责』的情绪支点，与全阶段犬肠道修护高度同构。",
+    "pet_pain_link": "现款行业缺『分阶段+敏感修护』的体系化设计。奶粉的部分/深度水解抗敏与按月龄分段范式，可直接破解全阶段犬肠道敏感、换粮应激的痛点。",
+    "dimensions": {
+      "pain_point": "婴儿肠道未发育完全、过敏、消化不良、便秘腹泻",
+      "target_user": "0-3 岁婴幼儿家长，敏感体质宝宝",
+      "ingredient_tech": "部分/深度水解蛋白、HMO、OPO 结构脂、益生元 GOS/FOS、后生元",
+      "product_form": "分段奶粉、特配粉(氨基酸配方)",
+      "narrative": "贴近母乳、肠道温和易吸收、分龄精准营养",
+      "price_band": "200-600 元/罐，特配粉更高",
+      "business_model": "母婴店+电商+会员复购+营养师服务",
+      "competitors": "爱他美、惠氏、飞鹤、君乐宝",
+      "regulation": "配方注册制、特医食品严格审批",
+      "evidence": "临床喂养研究、过敏发生率对比（待核实）"
+    },
+    "data_validation": [
+      {"source": "pubmed", "query": "partially hydrolyzed protein infant allergy prevention", "hypothesis": "水解蛋白降低敏感肠道负担", "finding": "DEMO 推断 · 待真跑验证", "sample_size": 0}
+    ],
+    "solution_stack": {
+      "signature_ingredients": ["部分水解乳清蛋白", "HMO(2'-FL)", "OPO 结构脂", "GOS/FOS 益生元", "后生元"],
+      "key_processes": ["酶解水解工艺", "干法/湿法混合", "微囊化营养包埋", "低温喷雾干燥"],
+      "delivery_form": "按生命阶段分段粉剂，定量勺设计",
+      "quality_proof": "配方注册+临床喂养研究+特医食品审批",
+      "transferability_note": "水解蛋白、益生元、分段思路可迁移；犬不需 HMO，应换犬适配低聚糖，水解蛋白可解敏感犬换粮应激。"
+    },
+    "timeline": [
+      {
+        "era": "萌芽期", "year_range": "1990-2005",
+        "summary": "进口奶粉进入，基础营养替代母乳",
+        "breakthrough": "外资品牌靠『接近母乳』科学话术建立信任，把奶粉从普通乳粉升级为科学育儿刚需。",
+        "tech_advance": "强化铁/DHA、基础益生元 GOS 加入，从全脂奶粉走向配方化。",
+        "consumer_mindset": "认知上家长信『进口=安全科学』；情绪上育儿焦虑初显；行为上靠医院/母婴店推荐；圈层上城市家庭先用，农村仍用米糊。",
+        "era_pain_point": "表层痛：奶粉贵、真假难辨；隐性痛：不懂分段不会选；心智空白：敏感宝宝无专门方案。",
+        "competitive_map": "外资派(惠氏/美赞臣)靠科研背书走高端；本土派(三鹿等)走性价比商超；医务渠道派靠医院推荐。三派分高端信任、大众性价比、专业背书。",
+        "opportunities": ["分段化空白", "敏感配方空白"],
+        "brand_actions": [
+          {"brand": "惠氏", "insight": "", "action": "", "positioning": ""},
+          {"brand": "美赞臣", "insight": "", "action": "", "positioning": ""},
+          {"brand": "雀巢", "insight": "", "action": "", "positioning": ""}
+        ]
+      },
+      {
+        "era": "成长期", "year_range": "2006-2013",
+        "summary": "分段配方普及，三聚氰胺后信任重构",
+        "breakthrough": "三聚氰胺事件后外资+高端进口靠『安全溯源』收割信任，分段精准营养成标配。",
+        "tech_advance": "OPO 结构脂、益生元组合、分段配方系统化，提升吸收减便秘。",
+        "consumer_mindset": "认知上家长深度看成分分段；情绪上安全焦虑极高、迷信进口；行为上海淘代购盛行、看检测；圈层上一二线全面进口化。",
+        "era_pain_point": "表层痛：代购真假、价格高；隐性痛：敏感宝宝仍腹泻/便秘；心智空白：抗敏修护无系统方案。",
+        "competitive_map": "进口高端派(爱他美/牛栏)靠海外原装；外资本土派(惠氏)双线；国产复苏派(飞鹤)开始讲『更适合中国宝宝』。围绕安全与适配分化。",
+        "opportunities": ["抗敏水解线", "本土适配叙事"],
+        "brand_actions": [
+          {"brand": "爱他美", "insight": "", "action": "", "positioning": ""},
+          {"brand": "飞鹤", "insight": "", "action": "", "positioning": ""},
+          {"brand": "惠氏", "insight": "", "action": "", "positioning": ""}
+        ]
+      },
+      {
+        "era": "爆发期", "year_range": "2014-2019",
+        "summary": "水解抗敏与特配粉崛起，HMO 入局",
+        "breakthrough": "抗敏专业派靠部分/深度水解蛋白与氨基酸特配粉切敏感人群，把『肠道温和修护』做成独立高价赛道。",
+        "tech_advance": "深度水解/氨基酸配方、HMO(2'-FL)商业化、A2 蛋白兴起，针对敏感肠道精准化。",
+        "consumer_mindset": "认知上家长懂水解/A2/HMO 概念；情绪上对过敏极度焦虑；行为上听儿科医生+成分党测评；圈层上高知精养家庭引领。",
+        "era_pain_point": "表层痛：特配粉昂贵难买；隐性痛：口味差宝宝不接受；心智空白：要修护+好接受度兼得。",
+        "competitive_map": "抗敏临床派(纽康特/蔼儿舒)走特医；HMO 创新派(爱他美卓萃)走科技高端；A2 差异派(a2至初)切蛋白温和。专业细分高地竞争。",
+        "opportunities": ["修护+适口兼得", "HMO 科技高端"],
+        "brand_actions": [
+          {"brand": "纽康特", "insight": "", "action": "", "positioning": ""},
+          {"brand": "a2至初", "insight": "", "action": "", "positioning": ""},
+          {"brand": "爱他美卓萃", "insight": "", "action": "", "positioning": ""}
+        ]
+      },
+      {
+        "era": "成熟期", "year_range": "2020-2026",
+        "summary": "出生率下行，存量精细化与功能升级",
+        "breakthrough": "国产高端派靠本土临床+全成分科技与会员服务在存量中争夺，功能(免疫/肠道/脑)成细分主轴。",
+        "tech_advance": "多重 HMO、后生元、自有专利菌株、临床数据成高端门票，配方架构走向基础+功能双层。",
+        "consumer_mindset": "认知上家长极度专业、看注册与临床；情绪上理性筛选少盲从；行为上看营养师+会员复购；圈层上下沉市场也精细化。",
+        "era_pain_point": "表层痛：高端溢价、同质化；隐性痛：功能宣称缺差异；心智空白：要可验证的肠道修护证据。",
+        "competitive_map": "国产高端派(飞鹤星飞帆/伊利金领冠)本土临床；进口科技派(爱他美)守 HMO；功能细分派切免疫/肠道。存量精细竞争。",
+        "opportunities": ["功能双层架构", "会员订阅复购"],
+        "brand_actions": [
+          {"brand": "飞鹤星飞帆", "insight": "", "action": "", "positioning": ""},
+          {"brand": "伊利金领冠", "insight": "", "action": "", "positioning": ""},
+          {"brand": "爱他美", "insight": "", "action": "", "positioning": ""}
+        ]
+      }
+    ],
+    "current_state": "存量竞争稳态：分段+水解抗敏+功能化已成熟，差异化集中在专利成分、本土临床与会员服务，敏感修护仍是高价值细分。"
+  },
+  {
+    "name": "功能性肠道食品(酸奶/燕麦麸/益生元饮品)",
+    "borrow": "迁移『日常化即食形态+益生元/膳食纤维+肠道通畅可感知』的生活方式叙事",
+    "why_chosen": "该赛道把肠道健康从保健品降维到日常食品，验证了益生元/膳食纤维+即食形态+『通畅可感知』的大众化路径，对主粮日常喂养场景最贴合。",
+    "pet_pain_link": "现款行业的肠道呵护停留在功能宣称、缺日常喂养的体感。该赛道『吃了就通畅』的可感知体验+膳食纤维体系，能让主粮的肠道功效在日常喂养中被主人感知。",
+    "dimensions": {
+      "pain_point": "便秘、排便不畅、肠道蠕动慢、口味单调",
+      "target_user": "都市白领、轻养生人群、便秘困扰者",
+      "ingredient_tech": "菊粉/低聚果糖、抗性糊精、β-葡聚糖、活菌发酵、膳食纤维",
+      "product_form": "酸奶、燕麦、纤维饮品、即食条",
+      "narrative": "肠道通畅、轻负担、日常自我管理",
+      "price_band": "5-30 元/份",
+      "business_model": "商超+便利店+电商高频复购",
+      "competitors": "简爱、桂格、Olly、wonderlab 纤维线",
+      "regulation": "普通食品标识规范，膳食纤维含量宣称合规",
+      "evidence": "膳食纤维通便研究较充分（待核实剂量）"
+    },
+    "data_validation": [
+      {"source": "web", "query": "膳食纤维 益生元 肠道蠕动 通便 证据", "hypothesis": "益生元提升排便规律性", "finding": "DEMO 推断 · 待真跑验证", "sample_size": 0}
+    ],
+    "solution_stack": {
+      "signature_ingredients": ["菊粉/低聚果糖(FOS)", "抗性糊精", "燕麦β-葡聚糖", "活性发酵乳酸菌"],
+      "key_processes": ["低温发酵", "膳食纤维微粉化", "即食成型工艺"],
+      "delivery_form": "即食饮品/条状/可拌食，高频日常摄入",
+      "quality_proof": "膳食纤维含量标识+活菌发酵+清洁标签",
+      "transferability_note": "菊粉、抗性糊精、β-葡聚糖可直接迁移做主粮益生元层；犬可耐受，但需控量防胀气，禁用木糖醇。"
+    },
+    "timeline": [
+      {
+        "era": "萌芽期", "year_range": "2000-2008",
+        "summary": "酸奶/燕麦作为助消化食品普及",
+        "breakthrough": "乳企靠『助消化益生菌酸奶』把肠道健康日常化，从药品段降维到食品段。",
+        "tech_advance": "活菌发酵酸奶+基础膳食纤维强化，肠道通畅成卖点。",
+        "consumer_mindset": "认知上肠道健康=喝酸奶；情绪上轻度便秘困扰；行为上商超随手买；圈层上城市白领普及。",
+        "era_pain_point": "表层痛：效果不明显；隐性痛：含糖高负担；心智空白：要低负担的功能感。",
+        "competitive_map": "乳企派(蒙牛/伊利)走活菌酸奶；燕麦派(桂格)走膳食纤维早餐；保健派切纤维补充剂。日常 vs 功能分化。",
+        "opportunities": ["低糖功能化", "纤维日常化"],
+        "brand_actions": [
+          {"brand": "蒙牛", "insight": "", "action": "", "positioning": ""},
+          {"brand": "桂格", "insight": "", "action": "", "positioning": ""},
+          {"brand": "伊利", "insight": "", "action": "", "positioning": ""}
+        ]
+      },
+      {
+        "era": "成长期", "year_range": "2009-2015",
+        "summary": "低温酸奶+功能发酵乳兴起",
+        "breakthrough": "低温活菌派靠『活菌更多+肠道动力』把功能酸奶高端化，价位上探。",
+        "tech_advance": "特定菌株发酵+冷链低温保活+益生元添加，功能精准化。",
+        "consumer_mindset": "认知上懂活菌与益生元；情绪上轻养生兴起；行为上看配料表选低糖；圈层上一线白领引领。",
+        "era_pain_point": "表层痛：含糖与价格；隐性痛：不知活菌是否有效；心智空白：要无添加的功能。",
+        "competitive_map": "低温功能派(光明/卡士)走活菌；纤维饮品派切便携；进口酸奶派切高端。功能与品质分化。",
+        "opportunities": ["无添加功能", "便携形态"],
+        "brand_actions": [
+          {"brand": "卡士", "insight": "", "action": "", "positioning": ""},
+          {"brand": "光明", "insight": "", "action": "", "positioning": ""},
+          {"brand": "味全", "insight": "", "action": "", "positioning": ""}
+        ]
+      },
+      {
+        "era": "爆发期", "year_range": "2016-2021",
+        "summary": "无添加+功能纤维新消费爆发",
+        "breakthrough": "新消费派(简爱/Olly)靠清洁标签+功能纤维零食化重构肠道食品，主打无负担自我管理。",
+        "tech_advance": "抗性糊精、膳食纤维软糖、低温慢发酵、零蔗糖工艺普及。",
+        "consumer_mindset": "认知上看『0添加+高纤维』；情绪上悦己轻养生；行为上小红书种草+便利店即买；圈层上 Z 世代女性引领。",
+        "era_pain_point": "表层痛：网红溢价；隐性痛：功能感弱；心智空白：要可感知通畅证据。",
+        "competitive_map": "清洁标签派(简爱)走无添加；功能软糖派(Olly)走悦己；纤维饮品派(wonderlab)切便携。新消费抢年轻心智。",
+        "opportunities": ["可感知通畅", "纤维软糖化"],
+        "brand_actions": [
+          {"brand": "简爱", "insight": "", "action": "", "positioning": ""},
+          {"brand": "Olly", "insight": "", "action": "", "positioning": ""},
+          {"brand": "WonderLab纤维线", "insight": "", "action": "", "positioning": ""}
+        ]
+      },
+      {
+        "era": "成熟期", "year_range": "2022-2026",
+        "summary": "功能精准化与肠脑轴日常方案",
+        "breakthrough": "科学日常派靠益生元+后生元+肠脑轴叙事把日常肠道食品升级为长期管理方案。",
+        "tech_advance": "后生元、精准益生元配比、肠脑轴成分(GABA)进入日常食品。",
+        "consumer_mindset": "认知上接受日常长期管理；情绪上理性长期主义；行为上订阅复购；圈层上大众普及。",
+        "era_pain_point": "表层痛：同质化；隐性痛：缺长期数据；心智空白：要长期可量化方案。",
+        "competitive_map": "科学日常派(简爱升级)+后生元派+肠脑轴新锐。长期管理高地竞争。",
+        "opportunities": ["长期管理订阅", "肠脑轴日常化"],
+        "brand_actions": [
+          {"brand": "简爱", "insight": "", "action": "", "positioning": ""},
+          {"brand": "明治", "insight": "", "action": "", "positioning": ""},
+          {"brand": "Olly", "insight": "", "action": "", "positioning": ""}
+        ]
+      }
+    ],
+    "current_state": "稳态偏成熟：日常化与清洁标签已普及，差异化转向后生元、精准益生元与长期管理订阅，体感可视化仍是空白。"
+  },
+  {
+    "name": "医学营养/特医食品(肠内营养)",
+    "borrow": "迁移『肠黏膜修护因子+临床证据+精准营养修复』的硬核修护科学体系",
+    "why_chosen": "这是『修护』母需求的科学天花板，谷氨酰胺、短肽、可溶纤维等肠黏膜修复成分与临床循证体系，为宠物『修护倡导』长期目标提供最硬的科学支点。",
+    "pet_pain_link": "现款行业把『修护』当营销词、缺机制支撑。特医的谷氨酰胺/短肽肠黏膜修复成分+临床循证，能为主粮真正建立『修护』的科学壁垒，区隔于堆料同行。",
+    "dimensions": {
+      "pain_point": "术后/重症肠黏膜损伤、吸收障碍、肠衰竭",
+      "target_user": "术后、肿瘤、重症、肠道功能受损患者",
+      "ingredient_tech": "谷氨酰胺、短肽/氨基酸、可溶性纤维(瓜尔胶)、ω-3、核苷酸",
+      "product_form": "肠内营养粉/液、要素膳",
+      "narrative": "肠黏膜修复、精准营养支持、循证医学",
+      "price_band": "高，医保/院内为主",
+      "business_model": "医院渠道+处方+临床营养师",
+      "competitors": "雀巢健康科学、雅培、华瑞、纽迪希亚",
+      "regulation": "特医食品严格注册，临床证据要求高",
+      "evidence": "谷氨酰胺修复肠黏膜临床证据较充分（待核实）"
+    },
+    "data_validation": [
+      {"source": "pubmed", "query": "glutamine intestinal mucosa repair enteral nutrition", "hypothesis": "谷氨酰胺促进肠黏膜修复", "finding": "DEMO 推断 · 待真跑验证", "sample_size": 0}
+    ],
+    "solution_stack": {
+      "signature_ingredients": ["L-谷氨酰胺", "短肽/水解蛋白", "可溶性纤维(瓜尔胶PHGG)", "ω-3 EPA/DHA", "核苷酸"],
+      "key_processes": ["酶解短肽工艺", "无菌灌装", "精准营养配比", "低渗配方"],
+      "delivery_form": "要素膳/肠内营养粉，易吸收低残渣",
+      "quality_proof": "特医注册+临床循证 RCT+营养师方案",
+      "transferability_note": "谷氨酰胺、PHGG、核苷酸可迁移做修护核心；犬适用性需验证，宠物不得宣称疾病治疗，话术须落『修护/呵护』。"
+    },
+    "timeline": [
+      {
+        "era": "萌芽期", "year_range": "1990-2003",
+        "summary": "肠内营养在院内起步，基础要素膳",
+        "breakthrough": "外资医学营养巨头把肠内营养引入临床，建立『肠道有功能就用肠内』理念。",
+        "tech_advance": "整蛋白/短肽要素膳、基础氨基酸配方成型。",
+        "consumer_mindset": "认知上仅医护知晓；情绪上患者依赖医嘱；行为上院内处方；圈层上三甲医院先用。",
+        "era_pain_point": "表层痛：口感差;隐性痛：腹泻耐受差;心智空白：修护成分不足。",
+        "competitive_map": "外资派(雀巢/雅培)主导院内；本土起步派跟随；处方主导。专业垄断。",
+        "opportunities": ["修护成分强化", "耐受性优化"],
+        "brand_actions": [
+          {"brand": "雀巢健康科学", "insight": "", "action": "", "positioning": ""},
+          {"brand": "雅培", "insight": "", "action": "", "positioning": ""},
+          {"brand": "华瑞", "insight": "", "action": "", "positioning": ""}
+        ]
+      },
+      {
+        "era": "成长期", "year_range": "2004-2012",
+        "summary": "谷氨酰胺等修复因子进入配方",
+        "breakthrough": "循证派靠谷氨酰胺/精氨酸/ω-3 免疫营养把肠内营养从『供能』升级到『修复』。",
+        "tech_advance": "免疫营养配方、谷氨酰胺强化、可溶纤维加入。",
+        "consumer_mindset": "认知上医护懂修复因子；情绪上重视康复；行为上循证选择；圈层上临床营养科建立。",
+        "era_pain_point": "表层痛：价格高;隐性痛：个体差异大;心智空白：精准化不足。",
+        "competitive_map": "免疫营养派(雅培/纽迪希亚)走修复；专科配方派切肿瘤/糖尿病；本土追赶派。专科分化。",
+        "opportunities": ["精准修复配方", "专科细分"],
+        "brand_actions": [
+          {"brand": "纽迪希亚", "insight": "", "action": "", "positioning": ""},
+          {"brand": "雅培", "insight": "", "action": "", "positioning": ""},
+          {"brand": "费森尤斯", "insight": "", "action": "", "positioning": ""}
+        ]
+      },
+      {
+        "era": "爆发期", "year_range": "2013-2020",
+        "summary": "特医食品法规落地，专科配方爆发",
+        "breakthrough": "特医注册制落地，本土+外资靠专科精准配方(肿瘤/术后/肠病)规模化扩张。",
+        "tech_advance": "PHGG 可溶纤维、短肽吸收优化、专科精准配比成熟。",
+        "consumer_mindset": "认知上家属开始了解特医；情绪上康复焦虑;行为上医生推荐+院外购买;圈层上高线城市扩散。",
+        "era_pain_point": "表层痛：合规品类少;隐性痛：院外购买难;心智空白：长期修护方案缺。",
+        "competitive_map": "专科特医派(雀巢/雅培)+本土注册派(圣桐/纽崔莱)+处方延伸派。注册壁垒竞争。",
+        "opportunities": ["院外修护方案", "专科精准"],
+        "brand_actions": [
+          {"brand": "雀巢佳膳", "insight": "", "action": "", "positioning": ""},
+          {"brand": "圣桐", "insight": "", "action": "", "positioning": ""},
+          {"brand": "雅培", "insight": "", "action": "", "positioning": ""}
+        ]
+      },
+      {
+        "era": "成熟期", "year_range": "2021-2026",
+        "summary": "精准营养+居家肠道康复",
+        "breakthrough": "居家康复派把特医修护方案延伸到家庭长期管理，精准营养+随访服务成新增长。",
+        "tech_advance": "个性化营养配比、后生元、肠道微生态修复成分融合。",
+        "consumer_mindset": "认知上家属专业化；情绪上长期康复管理;行为上营养师随访+复购;圈层上扩展到慢病人群。",
+        "era_pain_point": "表层痛：价格;隐性痛：依从性差;心智空白：可视化修护进度。",
+        "competitive_map": "精准营养派+居家康复服务派+微生态修复派。服务+科学双轮。",
+        "opportunities": ["居家长期修护", "修护进度可视"],
+        "brand_actions": [
+          {"brand": "雀巢健康科学", "insight": "", "action": "", "positioning": ""},
+          {"brand": "雅培", "insight": "", "action": "", "positioning": ""},
+          {"brand": "纽迪希亚", "insight": "", "action": "", "positioning": ""}
+        ]
+      }
+    ],
+    "current_state": "专业稳态：循证+修复因子+专科精准已成熟，居家长期修护与微生态融合是新方向，是宠物『修护』叙事的科学母矿。"
+  },
+  {
+    "name": "宠物功能性零食/营养品",
+    "borrow": "迁移『功能细分+适口性+可感知体感+订阅复购』的宠物侧落地经验",
+    "why_chosen": "这是离主粮最近的同生态赛道，已验证宠物功能成分的适口性、安全性与主人付费意愿，为主粮肠道功能化的落地形态与渠道提供直接经验。",
+    "pet_pain_link": "现款行业主粮功能弱、零食与主粮割裂。该赛道的功能细分+适口性+订阅复购经验，能让主粮把肠道功能做实并嵌入主人日常喂养与复购习惯。",
+    "dimensions": {
+      "pain_point": "宠物消化差、软便、挑食、营养补充需求",
+      "target_user": "精细化养宠的 Z 世代/白领宠主",
+      "ingredient_tech": "犬源益生菌、布拉氏酵母、南瓜纤维、丝兰提取、后生元",
+      "product_form": "冻干、营养膏、咀嚼片、撒粉",
+      "narrative": "肠胃呵护、软便改善、爱宠省心",
+      "price_band": "30-150 元/份",
+      "business_model": "电商+宠物店+订阅+KOL种草",
+      "competitors": "麦富迪、卫仕、谷登、海乐宠、Zesty Paws",
+      "regulation": "饲料添加剂/宠物食品标准，禁疾病宣称",
+      "evidence": "布拉氏酵母改善犬腹泻有研究（待核实）"
+    },
+    "data_validation": [
+      {"source": "taboo", "query": "宠物肠道营养品禁用成分 木糖醇", "hypothesis": "确认配方无犬毒成分", "finding": "DEMO 推断 · 待真跑验证", "sample_size": 0}
+    ],
+    "solution_stack": {
+      "signature_ingredients": ["布拉氏酵母菌", "犬源益生菌(动物双歧/嗜酸乳杆菌)", "南瓜/苹果纤维", "丝兰提取物(控便味)", "后生元"],
+      "key_processes": ["冻干保活", "微囊包埋", "低温适口包衣", "撒粉/营养膏成型"],
+      "delivery_form": "冻干撒粉/营养膏/咀嚼粒，适口易喂",
+      "quality_proof": "第三方检测+喂养案例+兽医背书",
+      "transferability_note": "成分与形态可直接做主粮内置层；需解决主粮高温膨化下活菌损失，用后生元或后喷涂工艺。"
+    },
+    "timeline": [
+      {
+        "era": "萌芽期", "year_range": "2010-2015",
+        "summary": "进口宠物营养品启蒙，概念粗放",
+        "breakthrough": "进口品牌靠海外概念把宠物益生菌引入，宠主从『不补』到『尝试补』。",
+        "tech_advance": "基础益生菌粉+营养膏成型，无适口优化。",
+        "consumer_mindset": "认知上跟人用类比;情绪上爱宠尝鲜;行为上海淘+宠物店;圈层上一线养宠先行。",
+        "era_pain_point": "表层痛：适口差不吃;隐性痛：活菌不稳定;心智空白：缺犬专用。",
+        "competitive_map": "进口派(Zesty Paws)+宠物店推荐派+人用替代派。粗放竞争。",
+        "opportunities": ["犬专用菌株", "适口优化"],
+        "brand_actions": [
+          {"brand": "Zesty Paws", "insight": "", "action": "", "positioning": ""},
+          {"brand": "麦顿", "insight": "", "action": "", "positioning": ""},
+          {"brand": "谷登", "insight": "", "action": "", "positioning": ""}
+        ]
+      },
+      {
+        "era": "成长期", "year_range": "2016-2020",
+        "summary": "国产营养品崛起，功能细分起步",
+        "breakthrough": "国产派靠性价比+功能细分(肠胃/皮肤/关节)与电商渠道放量。",
+        "tech_advance": "布拉氏酵母、南瓜纤维加入，适口包衣改善。",
+        "consumer_mindset": "认知上懂功能细分;情绪上精细养宠;行为上电商+测评;圈层上 Z 世代扩散。",
+        "era_pain_point": "表层痛：效果难判;隐性痛：成分不透明;心智空白：缺科学背书。",
+        "competitive_map": "国产功能派(卫仕/谷登)+进口高端派+主粮品牌延伸派(麦富迪)。性价比 vs 专业。",
+        "opportunities": ["科学背书", "主粮联动"],
+        "brand_actions": [
+          {"brand": "卫仕", "insight": "", "action": "", "positioning": ""},
+          {"brand": "麦富迪", "insight": "", "action": "", "positioning": ""},
+          {"brand": "谷登", "insight": "", "action": "", "positioning": ""}
+        ]
+      },
+      {
+        "era": "爆发期", "year_range": "2021-2024",
+        "summary": "冻干+后生元+科学化营销爆发",
+        "breakthrough": "新锐科学派靠冻干保活+后生元+第三方检测把营养品科学化，绑定主粮做组合复购。",
+        "tech_advance": "冻干保活、后生元、微囊包埋普及，活菌稳定性提升。",
+        "consumer_mindset": "认知上看菌株与检测;情绪上为科学付费;行为上订阅复购+成分党;圈层上高知宠主主导。",
+        "era_pain_point": "表层痛：同质化;隐性痛：体感难感知;心智空白：缺修护与可视反馈。",
+        "competitive_map": "新锐科学派+冻干派+主粮+营养品组合派。科学心智竞争。",
+        "opportunities": ["可视反馈", "主粮内置功能"],
+        "brand_actions": [
+          {"brand": "海乐宠", "insight": "", "action": "", "positioning": ""},
+          {"brand": "卫仕", "insight": "", "action": "", "positioning": ""},
+          {"brand": "Zesty Paws", "insight": "", "action": "", "positioning": ""}
+        ]
+      },
+      {
+        "era": "成熟期", "year_range": "2025-2026",
+        "summary": "功能向修护与主粮一体化升级",
+        "breakthrough": "头部主粮品牌把功能营养内置主粮，从『额外补』走向『主粮即功能修护』一体化。",
+        "tech_advance": "后喷涂活菌、后生元、肠黏膜修护因子进入主粮配方。",
+        "consumer_mindset": "认知上要一体化省心;情绪上长期养护;行为上订阅主粮;圈层上大众精细化。",
+        "era_pain_point": "表层痛：选择多乱;隐性痛：主粮与补剂割裂;心智空白：修护一体化方案。",
+        "competitive_map": "主粮一体化派+功能营养派+修护新锐派。一体化高地。",
+        "opportunities": ["主粮修护一体化", "订阅养护方案"],
+        "brand_actions": [
+          {"brand": "麦富迪", "insight": "", "action": "", "positioning": ""},
+          {"brand": "卫仕", "insight": "", "action": "", "positioning": ""},
+          {"brand": "弗列加特", "insight": "", "action": "", "positioning": ""}
+        ]
+      }
+    ],
+    "current_state": "高速成长偏爆发后期：功能细分与冻干科学化已普及，主粮一体化与修护可视反馈是下一蓝海，与本概念高度协同。"
+  }
+],
+"opportunities": [
+  {
+    "title": "肠黏膜修护因子内置主粮(谷氨酰胺+PHG

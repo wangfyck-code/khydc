@@ -1,0 +1,288 @@
+{
+  "concept": "体态管理狗粮",
+  "generated_at": "2026-06-01",
+  "baseline": {
+    "current_product": "中端体重管理犬粮（80-120 元/kg 价位段，对标皇家 Satiety / 麦富迪体重管理系列）",
+    "current_weakness": "现款复购偏低、概念偏旧——主要是『低卡 + L-肉碱』老叙事，主人难感知效果、缺反馈",
+    "decision_maker": "绝育后易胖犬主人；普遍有愧疚感（『给胖了』），愿意为可量化的方案买单",
+    "user": "狗（中大型为主，绝育后/老年居多）"
+  },
+  "mother_needs": [
+    "哺乳动物体重/体脂的长期管理",
+    "功能性日常饮食（边吃边解决问题）",
+    "长期行为干预与陪伴（数据化、可视化）"
+  ],
+  "industries": [
+    {
+      "name": "人类代餐/轻食",
+      "borrow": "饱腹配方 + 产品形态创新（奶昔/代餐棒/魔芋面）",
+      "pet_pain_link": "宠物侧对应痛点：现款体重粮『低卡 + L-肉碱』叙事老旧，主人难感知饱腹效果；犬只吃得快、易吃多。代餐 25 年沉淀的饱腹科技（魔芋、白芸豆、高蛋白配比）可调整剂量后迁移到犬粮，把『饱腹』做成可感知的卖点而非抽象概念。",
+      "dimensions": {
+        "pain_point": "想减肥但抗拒做饭、缺时间，怕饿、怕反弹",
+        "target_user": "25-40 岁都市白领女性为主，痛点强、决策快",
+        "ingredient_tech": "魔芋葡甘聚糖、白芸豆提取、抗性糊精、高蛋白配比",
+        "product_form": "代餐棒、即冲奶昔、自热轻食、低卡面",
+        "narrative": "一餐解决一个问题；可量化（卡路里直接打在包装上）",
+        "price_band": "¥10-30/餐，套餐 ¥200-600/周",
+        "business_model": "DTC + 电商爆款 + 健身房渠道，月度订阅尚未成主流",
+        "competitors": "王饱饱、Smeal、超级零、Soylent、Slim-Fast",
+        "regulation": "普通食品口径，不得宣称疾病疗效；可宣称『饱腹』『低 GI』",
+        "evidence": "白芸豆/魔芋的体重干预 RCT 较多，但跨物种有效性需另验"
+      },
+      "data_validation": [
+        {"source": "taobao", "query": "代餐 销量排序", "hypothesis": "人类代餐主流价位 ¥10-30/餐，月销过万的爆款集中在魔芋/高蛋白", "finding": "DEMO 占位 · 待真跑替换", "sample_size": 0}
+      ],
+      "timeline": [
+        {"era": "萌芽期", "year_range": "2000-2012", "summary": "Slim-Fast/Atkins 时代，奶昔代餐为主，主打『方便 + 控卡』，渠道集中在药店和电视广告", "opportunities": ["把一顿正餐压缩成一杯液体", "代餐进入药店与减重诊所"], "brand_actions": [{"brand": "Slim-Fast", "action": "电视广告轰炸 + 锁定中年女性减肥群体"}, {"brand": "Atkins", "action": "出版低碳水概念书，带火餐食重组逻辑"}]},
+        {"era": "爆发期", "year_range": "2013-2018", "summary": "Soylent 在硅谷码农圈引爆理性代餐，国内王饱饱/Smeal/超级零跟进；魔芋 + 高蛋白成标配", "opportunities": ["DTC 直营模式跑通", "把代餐切入健身/职场早餐场景", "魔芋 + 高蛋白组合走向大众"], "brand_actions": [{"brand": "Soylent", "action": "众筹+硅谷传播完成早期教育，2013 上线"}, {"brand": "王饱饱", "action": "小红书+B 站爆款打法，2018 年底单月千万 GMV"}, {"brand": "Smeal", "action": "切入写字楼货架渠道，主打『一顿不到 30 元』"}]},
+        {"era": "成熟期", "year_range": "2019-2023", "summary": "资本退潮，DTC 单元经济压力凸显，头部纷纷被收购或寻求线下渠道；品类从奶昔扩到棒/面/自热", "opportunities": ["健身房分销与线下零售突围", "订阅复购模型尝试", "细分品类（蛋白棒/低卡面）扩张"], "brand_actions": [{"brand": "Soylent", "action": "被 Glanbia 收购（2017 已收购，此阶段整合）"}, {"brand": "王饱饱", "action": "被百事 9 亿元收购（2021）"}, {"brand": "超级零", "action": "进盒马/沃尔玛，逐步去『代餐』纯减肥标签"}]},
+        {"era": "当下", "year_range": "2024-2026", "summary": "GLP-1 抢走纯减肥用户，『低卡 + 功能』成行业基础门槛而非卖点；增长靠人群细分与数据打通", "opportunities": ["细分人群代餐（产后/经期/术后恢复）", "与运动/睡眠数据联动的个性化套餐"], "brand_actions": [{"brand": "Lemonbox", "action": "个性化营养包订阅做大，月费制"}, {"brand": "ffit8", "action": "蛋白棒转向『功能性主食』叙事"}]}
+      ],
+      "current_state": "国内代餐进入『理性消费』阶段，纯减肥诉求让位给『轻断食 + 替代』组合；DTC 难独立做大，头部纷纷被收编或转向线下；魔芋+高蛋白已成标配，差异化只能靠人群细分与场景延伸。GLP-1 是这个行业当下最大的外部冲击。"
+    },
+    {
+      "name": "GLP-1 减肥经济",
+      "borrow": "成分原理（增加饱腹/延缓胃排空）+ 全民认知红利",
+      "pet_pain_link": "宠物侧对应痛点：体态管理品类增长慢、主人认知不到位，停留在『吃低卡就够了』。GLP-1 出圈带火全民『科学减重』心智，主人比 5 年前更愿意为体态买单。借势但不直接挂钩（用『植物饱腹科技』等概念），承接这波认知红利。",
+      "dimensions": {
+        "pain_point": "顽固性肥胖、节食反弹、想要『一针搞定』的减脂奇迹",
+        "target_user": "BMI≥28 成人；带火了更广泛的『科学减重』认知",
+        "ingredient_tech": "GLP-1 受体激动剂（处方药）；衍生话题：植物 GLP-1（白芸豆、苦瓜肽、辣椒素）",
+        "product_form": "针剂处方为主；消费品借势走『植物 GLP-1 类感』",
+        "narrative": "『重新定义饱腹感』『身体不饿了，意志力不用了』",
+        "price_band": "处方 ¥1000-3000/月；消费品借势品 ¥150-400/月",
+        "business_model": "处方+随访（药企）；消费品借势走话题/带货",
+        "competitors": "诺和诺德、礼来；借势消费品（Lemme Curb 等）",
+        "regulation": "处方药严管；消费品禁宣『GLP-1』直接挂钩，需打擦边",
+        "evidence": "GLP-1 类药物体重干预证据极强；植物替代证据薄"
+      },
+      "data_validation": [
+        {"source": "web", "query": "GLP-1 减肥 趋势 2026", "hypothesis": "GLP-1 的认知红利仍在扩散，借势品类有抬头", "finding": "DEMO 占位 · 待真跑替换", "sample_size": 0}
+      ],
+      "timeline": [
+        {"era": "萌芽期", "year_range": "2005-2016", "summary": "Byetta / Victoza 等早期 GLP-1 类药物作为糖尿病用药上市，减重只是『副作用』，无人意识到减肥赛道潜力", "opportunities": ["糖尿病饮食辅助管理", "GLP-1 机制的认知建立（仅医学圈）"], "brand_actions": [{"brand": "Eli Lilly", "action": "Byetta（艾塞那肽）FDA 批准上市，2005"}, {"brand": "Novo Nordisk", "action": "Victoza（利拉鲁肽）上市，2010；后注意到减重效应"}]},
+        {"era": "突破期", "year_range": "2017-2021", "summary": "Ozempic 上市后减重证据累积，Wegovy 获 FDA 减肥适应症批准；减肥处方化获合法路径", "opportunities": ["减肥处方化合法路径打通", "GLP-1 = 减肥的医学认知建立"], "brand_actions": [{"brand": "Novo Nordisk", "action": "Ozempic（司美格鲁肽）2017 上市；Wegovy 2021 获减肥适应症"}, {"brand": "Eli Lilly", "action": "tirzepatide 临床推进，对标 Ozempic"}]},
+        {"era": "爆发期", "year_range": "2022-2024", "summary": "名人效应（马斯克/Oprah/Kim K）+ TikTok 病毒传播 + 供应短缺，GLP-1 全民出圈；消费品借势涌现", "opportunities": ["GLP-1 借势消费品（植物 GLP-1）", "体重管理认知红利全民释放", "telehealth+compounded 直邮模型"], "brand_actions": [{"brand": "Eli Lilly", "action": "Mounjaro 上市（2022）→ Zepbound 减肥适应症（2023）"}, {"brand": "Hims & Hers", "action": "推 compounded GLP-1 直邮服务，¥199-299/月"}, {"brand": "Lemme（Kourtney Kardashian）", "action": "Lemme Curb 借『植物 GLP-1』话题营销"}]},
+        {"era": "当下", "year_range": "2025-2026", "summary": "供应回稳但价格仍贵，仿制药/口服剂型推进；GLP-1 重排代餐与零食行业；新争论：用户营养不足/肌肉流失", "opportunities": ["GLP-1 用户的『营养维护』产品（高蛋白+维矿）", "抗肌少配方（防 GLP-1 副作用）"], "brand_actions": [{"brand": "Novo Nordisk", "action": "口服司美格鲁肽推进"}, {"brand": "Eli Lilly", "action": "Zepbound 自费降价至 ¥349/月"}, {"brand": "Noom", "action": "推 Noom Med，集成 GLP-1 telehealth"}]}
+      ],
+      "current_state": "GLP-1 已成减肥赛道事实标准，处方门槛下降但仍贵（$300-1000/月）；行业新争论集中在『GLP-1 用户营养摄入不足/肌肉流失』，催生『GLP-1 配套饮食』细分；消费品『借势』正在被监管警告，植物 GLP-1 概念走灰色地带。"
+    },
+    {
+      "name": "运动营养（健身代餐/补剂）",
+      "borrow": "高蛋白配方 + 训练后场景 + 数据化训练记录",
+      "pet_pain_link": "宠物侧对应痛点：现款只讲减脂、不讲保肌；中老年犬肌少症与肥胖共存，单纯减卡反加重肌肉流失。运动营养证实减脂保肌的关键是高蛋白 + 精准摄入，可直接迁移成『高蛋白体重管理』叙事，配合体重曲线动态调整喂食量。",
+      "dimensions": {
+        "pain_point": "增肌、减脂、塑形需要精确营养配比",
+        "target_user": "健身爱好者、专业运动员；男性占比偏高",
+        "ingredient_tech": "乳清蛋白、肌酸、BCAA、L-肉碱、咖啡因",
+        "product_form": "蛋白粉、能量棒、电解质饮料",
+        "narrative": "训练后 30 分钟黄金窗口；按公斤体重定量",
+        "price_band": "¥1-3 元/g 蛋白，月支出 ¥200-800",
+        "business_model": "电商主力，订阅渗透低；KOL/教练带货强",
+        "competitors": "Myprotein、Optimum Nutrition、西王、康比特",
+        "regulation": "保健食品/普通食品双轨；蛋白宣称需符合 GB 28050",
+        "evidence": "蛋白质摄入与减脂/增肌关系证据级别高"
+      },
+      "data_validation": [
+        {"source": "pubmed", "query": "high protein diet weight loss", "hypothesis": "高蛋白饮食对减脂保肌效果有 RCT 支持", "finding": "DEMO 占位 · 待真跑替换", "sample_size": 0}
+      ],
+      "timeline": [
+        {"era": "萌芽期", "year_range": "1990-2005", "summary": "健美圈小众市场，蛋白粉初代产品，渠道集中在健身房与杂志", "opportunities": ["健身房渠道独占", "杂志广告教育市场"], "brand_actions": [{"brand": "Optimum Nutrition", "action": "Gold Standard Whey 上市，成为标杆产品"}, {"brand": "MuscleTech", "action": "进入大众零售渠道，扩品类"}]},
+        {"era": "普及期", "year_range": "2006-2016", "summary": "Myprotein 电商模式跑通，国产康比特/西王起步；BCAA、肌酸概念大众化", "opportunities": ["电商直营爆款（低渠道成本）", "BCAA 与肌酸大众化教育红利"], "brand_actions": [{"brand": "Myprotein", "action": "电商订阅模式 + 被 The Hut Group 收购（2011）"}, {"brand": "Cellucor", "action": "C4 引爆『训前补剂』细分"}]},
+        {"era": "大众化", "year_range": "2017-2022", "summary": "健身房爆发 + Keep/Lululemon 带火白领运动；蛋白零食化（棒/即饮）；女性运动营养市场打开", "opportunities": ["蛋白零食化（棒、即饮蛋白）", "女性运动营养专属产品线"], "brand_actions": [{"brand": "Quest Nutrition", "action": "Quest Bar 进便利店，月销量过亿"}, {"brand": "Liquid IV", "action": "电解质冲剂兴起，被联合利华收购（2020）"}, {"brand": "ffit8", "action": "国内蛋白棒爆款，主打中产女性"}]},
+        {"era": "当下", "year_range": "2023-2026", "summary": "运动营养与代餐/功能饮料边界模糊；AI 教练给营养建议；高端订阅化", "opportunities": ["个性化营养包（按 DNA / 训练数据定制）", "与可穿戴/AI 教练联动"], "brand_actions": [{"brand": "Athletic Greens (AG1)", "action": "转高端订阅，月费 $79-99 定位『全栈营养』"}, {"brand": "Liquid Death", "action": "颠覆运动饮料定位，反主流营销"}]}
+      ],
+      "current_state": "蛋白补充已成主流消费品，不再属『健身小众』；增长点在功能细分（睡眠/恢复/认知）与场景延伸（冲泡/液态/零食）；中国市场仍偏低渗透，教育成本高，KOL 带货是主增长引擎。"
+    },
+    {
+      "name": "慢病饮食 / 低 GI / 医学营养",
+      "borrow": "分阶段配方（适应/治疗/维持）+ 医院/专业渠道背书",
+      "pet_pain_link": "宠物侧对应痛点：现款一袋打天下，主人不知道吃多久该换、效果不可见；缺专业背书让主人坚持。医学营养的『适应/减重/维持』分阶段范式直接可迁移——给主人可视的进度感；兽医背书在宠物侧可信度极高，但目前没被产品端充分利用。",
+      "dimensions": {
+        "pain_point": "糖尿病、肥胖、术后等需要长期饮食干预",
+        "target_user": "确诊患者及家属；高决策权和专业引导路径",
+        "ingredient_tech": "低 GI 主食、抗性淀粉、控糖配方、医学营养素",
+        "product_form": "代餐粉、医院定制餐、低 GI 主食",
+        "narrative": "医学专业；分阶段目标（适应期→减重期→维持期）",
+        "price_band": "¥30-80/餐，套餐 ¥1500-4000/月",
+        "business_model": "医院+药店+电商三渠道；订阅+随访",
+        "competitors": "雀巢医学营养、Abbott、华大基因、肾糖友谊",
+        "regulation": "特殊医学用途配方食品（FSMP）需注册；普通低 GI 食品规范较松",
+        "evidence": "低 GI 饮食对糖尿病/肥胖的证据级别高"
+      },
+      "data_validation": [
+        {"source": "local", "query": "宠物食品价格边界 · 体重管理段", "hypothesis": "现款体重粮价位带在 80-120 元/kg，留有高端升级空间", "finding": "DEMO 占位 · 待真跑替换", "sample_size": 0}
+      ],
+      "timeline": [
+        {"era": "萌芽期", "year_range": "1980-2000", "summary": "Optifast（雀巢，1974 起源）在医院减重项目使用；FSMP 概念在欧美建立", "opportunities": ["医院渠道代餐", "FSMP 类目合规通路建立"], "brand_actions": [{"brand": "Nestlé Optifast", "action": "进入医院减重诊所，与医生绑定"}, {"brand": "Abbott", "action": "Glucerna 糖尿病配方上市（1988）"}]},
+        {"era": "规范化", "year_range": "2001-2014", "summary": "中国 FSMP 类目立法，雅培/达能/雀巢三巨头格局；糖尿病代餐合规化", "opportunities": ["FSMP 注册门槛建立护城河", "药店渠道糖尿病饮食产品"], "brand_actions": [{"brand": "Abbott", "action": "Glucerna 进入中国（2008）"}, {"brand": "雀巢", "action": "Optifast 在亚洲市场拓展"}]},
+        {"era": "普及期", "year_range": "2015-2022", "summary": "糖友群体电商化，低 GI 主食出圈到健康人群；『血糖友好』成消费品标签", "opportunities": ["低 GI 主食大众化", "『血糖友好』破圈到健康人群"], "brand_actions": [{"brand": "山姆/Costco", "action": "上低 GI 面包，推广健康主食"}, {"brand": "薄荷健康", "action": "推糖友饮食套餐，打通医患沟通"}, {"brand": "君乐宝", "action": "低 GI 奶粉上市，跨界进入糖友市场"}]},
+        {"era": "当下", "year_range": "2023-2026", "summary": "CGM（持续血糖监测）普及 + 饮食联动起势；血糖友好脱离糖友市场进入泛健康", "opportunities": ["CGM + 饮食的闭环产品", "餐后血糖管理零食"], "brand_actions": [{"brand": "Levels Health", "action": "CGM + 饮食 App，美国订阅制"}, {"brand": "硅基动感", "action": "国内 CGM+ 推消费级版本"}, {"brand": "Glucose Goddess", "action": "内容驱动的『餐前醋』『饭前蔬菜』方法论"}]}
+      ],
+      "current_state": "医学营养与大众健康食品边界正在模糊；『血糖友好』正在脱离糖友市场进入泛健康人群；CGM 普及是下一个引爆点；FSMP 仍是合规高墙，但『普通食品』侧也在用低 GI、抗性淀粉等做类似事，监管套利空间在缩小。"
+    },
+    {
+      "name": "健身 App / 可穿戴",
+      "borrow": "数据化追踪 + 进度可视化 + 即时反馈 + 游戏化激励",
+      "pet_pain_link": "宠物侧对应痛点：现款没有任何反馈机制，主人买完粮就消失；体重粮复购低本质是『没人盯进度』。把粮 + App 绑定，主人录体重/BCS 体态评分，App 给曲线和定量建议——把『卖完即结束』的关系变成『持续陪伴』，复购自然解锁。",
+      "dimensions": {
+        "pain_point": "减肥/运动坚持难，需要外部反馈与社交激励",
+        "target_user": "18-45 岁泛运动人群，硬件用户偏中高收入",
+        "ingredient_tech": "传感器、算法、AI 教练；与饮食/睡眠数据打通",
+        "product_form": "App + 智能手环/手表 + 体脂秤",
+        "narrative": "你的身体数据可见可量化；每一次努力都被看到",
+        "price_band": "App 免费/订阅 ¥20-50/月；硬件 ¥200-3000",
+        "business_model": "硬件+订阅+社群；高活跃度 → 高复购",
+        "competitors": "Keep、Apple Health、Whoop、华为运动健康",
+        "regulation": "医疗器械与消费电子边界；不得宣称疾病诊断",
+        "evidence": "自我监测显著提升体重管理依从性（多篇 meta 分析）"
+      },
+      "data_validation": [
+        {"source": "appstore", "query": "宠物体重管理 App 评分", "hypothesis": "宠物侧体重管理 App 渗透极低，主人有需求但缺工具", "finding": "DEMO 占位 · 待真跑替换", "sample_size": 0}
+      ],
+      "timeline": [
+        {"era": "萌芽期", "year_range": "2009-2013", "summary": "Fitbit 计步器引爆可穿戴；Nike+ Running 把跑步社交化；运动数据第一次被可视化", "opportunities": ["运动数据可视化教育市场", "社交激励机制（PK / 打卡）"], "brand_actions": [{"brand": "Fitbit", "action": "第一代腕带 Tracker 上市（2009）"}, {"brand": "Nike+", "action": "Nike+ Running 与跑步社群打通"}, {"brand": "RunKeeper", "action": "GPS 跑步 App 普及"}]},
+        {"era": "普及期", "year_range": "2014-2018", "summary": "Apple Watch 改写智能手表定义；Keep 在国内起势；可穿戴+App 闭环成型", "opportunities": ["可穿戴 + App 订阅闭环", "训练计划付费"], "brand_actions": [{"brand": "Apple", "action": "Apple Watch S1 上市（2015），开启智能手表时代"}, {"brand": "Keep", "action": "2014 创立，2018 拿 D 轮，国内健身 App 龙头"}, {"brand": "Peloton", "action": "硬件 + 订阅模式跑通，单车 IPO 准备"}]},
+        {"era": "数据化", "year_range": "2019-2023", "summary": "Whoop/Oura 切入睡眠与恢复细分；CGM 进入消费市场；从运动延伸到全天候健康数据", "opportunities": ["订阅制硬件（硬件免费/低价 + 月费）", "睡眠/恢复/HRV 细分赛道"], "brand_actions": [{"brand": "Whoop", "action": "Whoop 4.0 完全订阅制（2021），$30/月"}, {"brand": "Oura", "action": "Oura Ring Gen3 上市，睡眠分析做爆款"}, {"brand": "Apple", "action": "Apple Watch 加 ECG / 血氧 / 跌倒检测"}]},
+        {"era": "当下", "year_range": "2024-2026", "summary": "AI 教练正式落地；饮食+睡眠+训练数据贯通；硬件赛道高度集中", "opportunities": ["AI 全栈个人健身教练", "数据驱动的减重处方（healthspan）"], "brand_actions": [{"brand": "Apple", "action": "Apple Fitness+ 加 AI 升级；Vision Pro 试水沉浸健身"}, {"brand": "Keep", "action": "推 AI 私教，订阅制升级"}, {"brand": "Whoop", "action": "Whoop Coach 集成 GPT-4，自然语言对话指导"}]}
+      ],
+      "current_state": "硬件赛道高度集中在 Apple / Garmin / Whoop 三足；软件订阅才是真正护城河；AI 正在重塑『教练-用户』关系，体重/血糖/睡眠数据闭环是下一站；数据互通仍是大问题（各品牌生态封闭）。"
+    },
+    {
+      "name": "订阅型体重管理服务（Noom / WW / 薄荷健康）",
+      "borrow": "心理学+陪伴+订阅复购；行为改变而非单点产品",
+      "pet_pain_link": "宠物侧对应痛点：体重管理是长期工程，但宠物行业只卖产品不卖服务；现款复购低源于『主人无监督』。Noom 模式（课程+教练+群陪伴）可复刻为『4 周减脂套餐 + 微信群陪伴』，绑定粮销售；半年订阅锁客是宠物侧的真空地带。",
+      "dimensions": {
+        "pain_point": "靠意志力减不下来，需要陪伴+教育+长期约束",
+        "target_user": "屡战屡败的减肥人群；女性主导",
+        "ingredient_tech": "CBT 行为认知疗法、心理学课程、AI+人工教练",
+        "product_form": "App 订阅、每日打卡、教练 1v1 / 群陪伴",
+        "narrative": "不是节食，是行为习惯重建；长期主义",
+        "price_band": "¥120-500/月，年度套餐 ¥1500-2500",
+        "business_model": "纯订阅；增长靠付费投放 + 转介",
+        "competitors": "Noom、WeightWatchers、薄荷健康、小米运动",
+        "regulation": "非医疗服务；功效宣称需克制",
+        "evidence": "Noom 等行为干预 + 陪伴的 6 月减重 5-10% 有发表证据"
+      },
+      "data_validation": [
+        {"source": "web", "query": "Noom pricing model 2026", "hypothesis": "Noom 年订阅 ¥1500-2500 区间，主营『行为改变』而非单品", "finding": "DEMO 占位 · 待真跑替换", "sample_size": 0}
+      ],
+      "timeline": [
+        {"era": "线下时代", "year_range": "1963-2007", "summary": "WeightWatchers 实体会议 + 积分；Jenny Craig 餐食配送；陪伴+积分游戏化的雏形", "opportunities": ["线下会议社群激励", "积分制把饮食游戏化"], "brand_actions": [{"brand": "WeightWatchers", "action": "1963 创立，实体会议 + Points 积分系统"}, {"brand": "Jenny Craig", "action": "餐食配送 + 1v1 顾问，差异化竞争"}]},
+        {"era": "数字化转型", "year_range": "2008-2015", "summary": "WW 转 App+积分（SmartPoints）；Noom 起步并重做（2017）；心理学减肥概念建立", "opportunities": ["App 化心理学课程", "数据化饮食日记 + 算法反馈"], "brand_actions": [{"brand": "Noom", "action": "2008 起步，2017 完成产品重做，提出『心理学减肥』"}, {"brand": "WeightWatchers", "action": "推 PointsPlus → SmartPoints，全面 App 化"}]},
+        {"era": "爆发期", "year_range": "2016-2022", "summary": "Noom 激进付费投放冲增长，估值 $3.7B；国内薄荷健康转型；订阅制单次付费数百到上千美元", "opportunities": ["付费投放高 ROI 期", "年度订阅深度锁客"], "brand_actions": [{"brand": "Noom", "action": "估值 $3.7B（2021），IPO 准备"}, {"brand": "WeightWatchers", "action": "请 Oprah 代言并融资入股"}, {"brand": "薄荷健康", "action": "国内转型 App + 电商，IPO 准备"}]},
+        {"era": "当下", "year_range": "2023-2026", "summary": "GLP-1 冲击巨大；Noom 增长放缓转 Noom Med（集成 GLP-1）；WW 破产保护重组（2025）", "opportunities": ["『药 + App + 陪伴』组合产品", "AI 教练降本以保住毛利"], "brand_actions": [{"brand": "Noom", "action": "Noom Med 上线 GLP-1 telehealth（$149/月起）"}, {"brand": "WeightWatchers", "action": "破产保护后被 Sequel Bio 收购（2025）"}, {"brand": "薄荷健康", "action": "转向硬件 + App 双轮（智能秤等）"}]}
+      ],
+      "current_state": "纯行为干预 SaaS 模型受 GLP-1 严重冲击，单一订阅难撑增长；行业重组进行中，『药 + App + 陪伴』成新形态；中国市场仍以工具型 App 为主，服务+陪伴付费意愿低，订阅成功案例少。"
+    }
+  ],
+  "opportunities": [
+    {
+      "title": "粮 + 体重打卡 App：按犬只数据化定量",
+      "from_industry": "健身 App / 可穿戴 + 订阅型体重管理服务",
+      "mechanism": "数据化干预 + 即时反馈 + 进度可视化",
+      "value": 5,
+      "feasibility": 3,
+      "differentiation": 4,
+      "transfer_note": "随粮附 App 二维码；主人录体重/BCS 体态评分，App 给定量建议、画曲线。粮+App 是绑定关系（卖粮赠服务），不是单卖 App。",
+      "taboo": "不能宣称『治疗肥胖』；App 数据不可替代兽医诊断",
+      "is_red_ocean": false,
+      "concept_detail": {
+        "ingredients": "无新增成分，沿用现款减重期配方；可叠加 BCS 体态评分卡指南",
+        "tech": "App 主功能：主人录入体重/餐次/BCS → AI 算法给定量调整建议 + 画曲线；首期纯 SaaS，二期可接智能体重秤 IoT",
+        "product_form": "袋装 / 订阅装 + 包装内卡片二维码 + 独立 App（iOS/Android）",
+        "trust_backing": "BCS 评分卡引用兽医协会标准 + 数据曲线全程透明 + 1-2 位兽医顾问联名背书"
+      }
+    },
+    {
+      "title": "三阶段配方包：适应→减重→维持，分包减卡",
+      "from_industry": "慢病饮食 / 低 GI / 医学营养 + 人类代餐/轻食",
+      "mechanism": "分阶段目标 + 心理预期管理",
+      "value": 4,
+      "feasibility": 4,
+      "differentiation": 3,
+      "transfer_note": "一套 3 包不同热量密度的粮，按月切换；包装色阶递进给主人可视的进度感。",
+      "taboo": "热量阶梯需经兽医营养师审核，避免减太快导致营养缺乏",
+      "is_red_ocean": false,
+      "concept_detail": {
+        "ingredients": "适应期：常规配方；减重期：低卡 + 高纤维（魔芋粉 1-2%）+ L-肉碱强化；维持期：调整热量密度回常规偏低",
+        "tech": "三套配方分别打料；包装色阶递进（浅→深紫）；兽医营养师参与配方审核",
+        "product_form": "套装（3 包，每月一包按顺序切换）+ 内附阶段切换指南 + 体重记录卡",
+        "trust_backing": "兽医营养师联名 + 阶段切换需主人记录体重/BCS（含轻量监测要求增加专业感）"
+      }
+    },
+    {
+      "title": "高蛋白 + 魔芋 + L-肉碱 的『饱腹型』配方",
+      "from_industry": "人类代餐/轻食 + 运动营养（健身代餐/补剂）",
+      "mechanism": "饱腹感 + 成分故事",
+      "value": 4,
+      "feasibility": 5,
+      "differentiation": 2,
+      "transfer_note": "成分组合人类侧已被验证，配方端落地容易；但已有多家竞品在做，差异化偏弱。",
+      "taboo": "魔芋粗纤维过量可能引起犬只腹泻，剂量需严控",
+      "is_red_ocean": true,
+      "concept_detail": {
+        "ingredients": "蛋白含量提至 32%+；魔芋粉 1-2%（剂量需犬只耐受测试）；L-肉碱 100mg/kg 食物",
+        "tech": "成熟配方工艺；魔芋需挤压膨化处理适配犬只消化",
+        "product_form": "袋装，主流 1.5 / 3 / 7.5kg 规格",
+        "trust_backing": "成分透明（标明具体含量）+ 第三方营养检测报告 + 蛋白比例 vs 主流竞品的可视化对标图"
+      }
+    },
+    {
+      "title": "兽医背书 + BCS 体态评分卡随包附赠",
+      "from_industry": "慢病饮食 / 低 GI / 医学营养",
+      "mechanism": "专业背书 + 主人教育",
+      "value": 3,
+      "feasibility": 5,
+      "differentiation": 3,
+      "transfer_note": "每包附一张 BCS 实体卡（图示+评分表），扫码进教程；近乎零成本，但显著提升专业感与主人参与度。",
+      "taboo": "兽医联名需要真实合作背书，不可虚构权威",
+      "is_red_ocean": false,
+      "concept_detail": {
+        "ingredients": "现款配方不变",
+        "tech": "BCS 卡设计：图示 1-9 分体态 + 自检步骤 + 扫码进 5 分钟教程视频",
+        "product_form": "每袋内附实体 BCS 卡（彩印）+ 二维码主人教育页",
+        "trust_backing": "与 1-2 家头部宠物医院或行业协会（如中国小动物保护协会）联名"
+      }
+    },
+    {
+      "title": "4 周减脂订阅套餐：周送 + 周报 + 客服群",
+      "from_industry": "订阅型体重管理服务（Noom / WW / 薄荷健康）",
+      "mechanism": "订阅复购 + 陪伴 + 社群激励",
+      "value": 5,
+      "feasibility": 2,
+      "differentiation": 5,
+      "transfer_note": "首月体验装 ¥499 含 4 周粮 + 每周称重指导 + 主人微信群陪伴。运营重，但锁定复购，宠物侧无人做。",
+      "taboo": "客服承诺需克制，不可保证减重 X 斤；要管理预期",
+      "is_red_ocean": false,
+      "concept_detail": {
+        "ingredients": "沿用减重期配方；可选叠加三阶段配方包",
+        "tech": "订阅 SaaS + 微信群运营 SOP + 每周自动推送周报话术 + 客服答疑流程",
+        "product_form": "首月 ¥499 体验装：4 周粮（4 小袋）+ 周报模板 + 微信群入口 + 体重记录卡",
+        "trust_backing": "兽医营养师每周群答疑 + 真实减重案例（带主人授权前后对比图）+ 30 天不满意退款"
+      }
+    },
+    {
+      "title": "GLP-1 类植物替代营养（白芸豆 / 苦瓜肽 / 魔芋）",
+      "from_industry": "GLP-1 减肥经济",
+      "mechanism": "借势热度 + 成分故事",
+      "value": 4,
+      "feasibility": 3,
+      "differentiation": 4,
+      "transfer_note": "借 GLP-1 大热点起『植物饱腹科技』概念；犬用安全剂量需查证（白芸豆有效性在犬只尚缺证据）。",
+      "taboo": "禁止任何形式暗示 GLP-1 / 处方药关联；植物成分犬用剂量必须有依据",
+      "is_red_ocean": false,
+      "concept_detail": {
+        "ingredients": "白芸豆提取物 + 苦瓜肽 + 魔芋粉的复合（具体剂量需犬只安全性研究确定）",
+        "tech": "委外第三方实验室做犬用剂量安全测试；配方工艺需适配高纤维",
+        "product_form": "袋装 + 包装强调『植物饱腹科技』视觉识别",
+        "trust_backing": "委托第三方做犬只小样本 RCT + 成分溯源认证 + **绝对禁止任何 GLP-1 字样关联**"
+      }
+    }
+  ],
+  "top_picks": [
+    "粮 + 体重打卡 App：按犬只数据化定量",
+    "4 周减脂订阅套餐：周送 + 周报 + 客服群",
+    "三阶段配方包：适应→减重→维持，分包减卡"
+  ]
+}
