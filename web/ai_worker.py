@@ -29,6 +29,26 @@ _ENV_PATH = Path("~/AI/openrouter-demo/.env").expanduser()
 if _ENV_PATH.exists():
     load_dotenv(_ENV_PATH)
 
+
+def _load_streamlit_secrets() -> None:
+    """Copy Streamlit Cloud secrets into env vars when available."""
+    try:
+        import streamlit as st
+        secrets = st.secrets
+    except Exception:
+        return
+
+    for key in ("LLMAPI_NET_KEY", "LLMAPI_NET_BASE", "ANTHROPIC_API_KEY", "OPENROUTER_API_KEY"):
+        try:
+            value = secrets.get(key)
+        except Exception:
+            value = None
+        if value and not os.environ.get(key):
+            os.environ[key] = str(value)
+
+
+_load_streamlit_secrets()
+
 DEFAULT_MODEL = "claude-opus-4-8"  # 单步跑或 Step 2（brand_actions 深度升级）
 DEFAULT_SKELETON_MODEL = "deepseek/deepseek-v3.2"  # Step 1 骨架 — 单价低、能装更多输出
 DEFAULT_MAX_TOKENS = 16000  # llm-api.net 代理实测输出上限 ~7K，OpenRouter deepseek 上限大

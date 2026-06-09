@@ -1,10 +1,12 @@
 """跨行业洞察 web — 共享数据加载层。"""
 from pathlib import Path
 import json
+import os
 from datetime import datetime
 import streamlit as st
 
-RUNS_DIR = Path("~/AI/cross-industry-insight/runs").expanduser()
+REPO_ROOT = Path(__file__).resolve().parent.parent
+RUNS_DIR = Path(os.environ.get("RUNS_DIR", REPO_ROOT / "runs")).expanduser()
 DECISIONS_FILE = "decisions.json"
 INPUT_FILE = "input.json"
 INSIGHT_FILE = "insight.json"
